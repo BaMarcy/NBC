@@ -8,7 +8,6 @@ Created on Sun Jul  3 00:59:51 2022
 import streamlit as st
 import pandas as pd
 import numpy as np
-from urllib.error import URLError
 
 
 st.title('Breast Cancer Classification with Naïve Bayes Classifier')
@@ -16,7 +15,7 @@ st.title('Breast Cancer Classification with Naïve Bayes Classifier')
 st.markdown("""
     This is a native implementation of Naïve Bayes Classifier from scratch in Python.
 
-    Check the code on [GitHub](https://www.linkedin.com/in/marcellbalogh/) and connect on [LinkedIn.](https://www.linkedin.com/in/marcellbalogh/)
+    Check the code on [GitHub](https://github.com/BaMarcy/NBC) and connect on [LinkedIn.](https://www.linkedin.com/in/marcellbalogh/)
     
     
 """)
@@ -107,10 +106,10 @@ with st.expander("The dataset:", expanded=True):
     
     
      
-with st.expander("See Naïve Bayes Classifier implementation from scratch in Python:"):
+with st.expander("See Naïve Bayes Classifier implementation from scratch in Python:", expanded=True):
      st.code(class_code, language='python')
      
-with st.expander("Compare the implementation with sklearn:"):
+with st.expander("Compare the implementation with sklearn:", expanded=True):
      st.code(run_code, language='python')
      st.text('>>> Accuracy: 0.9402460456942003')
      st.text('>>> Accuracy (sklearn): 0.9420035149384886')
