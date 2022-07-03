@@ -5,8 +5,11 @@
 <p align="justify">This is a native implementation of Naïve Bayes Classifier from scratch in Python.</p>
 
 <p align="center">
-  <img src="https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea">
+  <img src=https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea>
 </p>
+
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea))
+
 
 ---
 #### ☑️ Prerequisites
