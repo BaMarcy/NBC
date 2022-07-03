@@ -5,7 +5,7 @@
 <p align="justify">This is a native implementation of Naïve Bayes Classifier from scratch in Python.</p>
 
 <p align="center">
-  <img src="breast_cancer_dataset_PCA.png">
+  <img src="https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea">
 </p>
 
 ---
