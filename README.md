@@ -24,5 +24,5 @@
 ---
 #### ⚙️ Run
 ```html
-   jupyter notebook train.ipynb
+   jupyter notebook Breast_Cancer_Classification_with_Naïve_Bayes_Classifier.ipynb
 ```
