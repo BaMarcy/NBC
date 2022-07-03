@@ -5,7 +5,7 @@
 <p align="justify">This is a native implementation of Naïve Bayes Classifier from scratch in Python.</p>
 
 <p align="center">
-  <img src="test.PNG">
+  <img src="breast_cancer_dataset_PCA.png">
 </p>
 
 ---
@@ -22,8 +22,7 @@
    pip install -r requirements.txt
 ```
 ---
-#### 🛠️ Train
-###### ⚙️ Run
+#### ⚙️ Run
 ```html
    jupyter notebook train.ipynb
 ```
