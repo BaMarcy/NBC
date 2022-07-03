@@ -1,6 +1,6 @@
 ## Breast Cancer Classification with Naïve Bayes Classifier 
  
-[**💾 DATASET**](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|** [**🔥 PyTorch**](https://pytorch.org/get-started/locally/) **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh) 👈🏽
+[**💾 DATASET**](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) **|** [**💻 Jupyter Notebook**](https://jupyter.org/install) **|**  [**🔗 LinkedIn**](https://www.linkedin.com/in/marcellbalogh) 👈🏽
 #### 🔍 Description
 <p align="justify">This is a native implementation of Naïve Bayes Classifier from scratch in Python.</p>
 
