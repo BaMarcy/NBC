@@ -4,12 +4,10 @@
 #### 🔍 Description
 <p align="justify">This is a native implementation of Naïve Bayes Classifier from scratch in Python.</p>
 
-<p align="center">
-  <img src=https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea>
-</p>
 
 
-![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
+
+![foxdemo](https://miro.medium.com/max/1050/1*ZW1icngckaSkivS0hXduIQ.jpeg)
 
 ---
 #### ☑️ Prerequisites
