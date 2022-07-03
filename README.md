@@ -8,8 +8,8 @@
   <img src=https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea>
 </p>
 
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://medium.com/@mallrishabh52/naive-bayes-classifier-a77b0dc4a0ea))
 
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 
 ---
 #### ☑️ Prerequisites
